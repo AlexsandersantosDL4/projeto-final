@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Página-1" id="_hcDYASXazIbO8wdi8FZ">
+    <mxGraphModel dx="937" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#040404)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-24" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mcNiU_FmSzsv2ANgahA4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="Usuario&lt;div&gt;Clica/Digita/Envia&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-25" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mcNiU_FmSzsv2ANgahA4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HTML&lt;div&gt;(index.html)&lt;br&gt;&lt;div&gt;Estrutura/IDs/Class&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-26" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mcNiU_FmSzsv2ANgahA4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CSS&lt;div&gt;(header.css/main.css/&lt;/div&gt;&lt;div&gt;footer.css)&lt;/div&gt;&lt;div&gt;Estilo do Site&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-27" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mcNiU_FmSzsv2ANgahA4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="JavaScript&lt;div&gt;(style.js)&lt;/div&gt;&lt;div&gt;Eventos/Lógicas/&lt;/div&gt;&lt;div&gt;Movimentações&lt;/div&gt;&lt;div&gt;/Função&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="510" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-30" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mcNiU_FmSzsv2ANgahA4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DOM&lt;div&gt;(ClassList/InnerText/&lt;/div&gt;&lt;div&gt;style)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Solução de problemas&lt;div&gt;Site Açaí Looping&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="520" x="160" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Resultado Na Tela&lt;div&gt;botão confirma/Menu abre/Evento aparece/&lt;/div&gt;&lt;div&gt;Links funcionam e pedidos são feitos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="800" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-46" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mcNiU_FmSzsv2ANgahA4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-49" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="mcNiU_FmSzsv2ANgahA4-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="480" />
+              <mxPoint x="240" y="480" />
+            </Array>
+            <mxPoint x="240" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Colaboradores&lt;div&gt;&lt;br&gt;&lt;div&gt;Alex/&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Kauã/&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Lucas/&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Igor&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="254" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-44" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="mcNiU_FmSzsv2ANgahA4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cliente" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-47" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" target="mcNiU_FmSzsv2ANgahA4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcNiU_FmSzsv2ANgahA4-48" edge="1" parent="1" source="mcNiU_FmSzsv2ANgahA4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" target="mcNiU_FmSzsv2ANgahA4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="480" />
+              <mxPoint x="565" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
