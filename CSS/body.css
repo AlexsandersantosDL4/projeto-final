@@ -1,3 +1,61 @@
 body{
     background-color: darkmagenta;
 }
+
+/* home main */
+
+.centralizado{
+    text-align: center;
+}
+
+.titulos{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#imagem1 {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 400px;
+}
+
+.linha{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#inf{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+    color: rgb(251, 180, 39);
+    justify-content:center;
+}
+
+.cards{
+    width: 200px;
+    background-color: #b735a8;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    border: 3px solid rgb(219, 191, 34);
+    box-shadow: 5px solid rgb(225, 152, 6);
+}
+
+.imgacai{
+    width: 180px;
+    height: 200px;
+    border-radius: 15px 80px 5px 100px;
+    /* border-radius: 15px 80px 5px 100px; */
+}
+
+.imgacai button{
+    color: rgb(181, 133, 28);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5px;
+    
+}
+
