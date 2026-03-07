@@ -1,11 +1,12 @@
 #listaprincipal{
     display: flex;        
-    justify-content: center;
-    gap: 15px;               
+    justify-content: center;    
     background-color: #f834d7;
     font-size:50px;
     margin: 0px;
+    gap: 12;
     list-style: none;
+    align-items: center;
 }
 #listaprincipal img{
     width: 250px;
@@ -17,11 +18,13 @@
 }
 #listaprincipal a :hover{
     transition: 0.2s;
-    color: rgb(255, 255, 255);
-    margin-top: 2px;
     background-color: chartreuse;
+    color: rgb(225, 152, 6);
+    margin-top: 5px;
+    box-shadow: 3px 7px 10px black;
+    /* background-color: chartreuse; */
     /* sugestao vini
     - tira o background
-    - color: rgb(225, 152, 6) -- um pouco mais claro talvezz;  */
+    - color: rgb() -- um pouco mais claro talvezz;  */
 
 }
